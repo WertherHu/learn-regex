@@ -27,7 +27,9 @@
 * [Greek](../translations/README-gr.md)
 * [Magyar](../translations/README-hu.md)
 * [Polish](../translations/README-pl.md)
-* [Русский](translations/README-ru.md)
+* [Русский](../translations/README-ru.md)
+* [Tiếng Việt](../translations/README-vn.md)
+* [فارسی](../translations/README-fa.md)
 
 ## 什么是正则表达式?
  
@@ -459,7 +461,7 @@
 
 ### 5.3 多行修饰符 (Multiline)
 
-多行修饰符 `m` 常用语执行一个多行匹配. 
+多行修饰符 `m` 常用于执行一个多行匹配.
 
 像之前介绍的 `(^,$)` 用于检查格式是否是在待检测字符串的开头或结尾. 但我们如果想要它在每行的开头和结尾生效, 我们需要用到多行修饰符 `m`.
 
